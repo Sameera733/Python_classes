@@ -20,5 +20,8 @@
 # 1  0   -> 1
 # 1  1   -> 1
 
-
+#Tasks
 # Implement this logic via code
+
+# Bitwise operator
+# Assignment operator
