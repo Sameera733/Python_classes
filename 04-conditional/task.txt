@@ -1,0 +1,5 @@
+1. Even Odd
+2. Exponential of 2, 3, 4 AS BASE to power by user input
+3. Check prime or not
+4. calculator using if, if-else ladder and match-case
+5. Greatest number of some user input ternary, if, if-else (min 3 input from user)
