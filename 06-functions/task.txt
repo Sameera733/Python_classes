@@ -1,0 +1,12 @@
+1. write a funtion to find a prime number or not a prime number
+
+2. fibonachi series 
+
+3. stacks, golden ration research
+
+4. find a reverse of the given number eg: input: 1234   output : 4321
+
+5. palindrome number yes or no  eg: 1221 reverse: 1221 if euqal palindrome else not a palindrome
+
+6. area of square, rectangle, circle
+

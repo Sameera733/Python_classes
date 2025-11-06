@@ -12,3 +12,9 @@
 
 
 3. apply while loop for previous patters 
+
+
+4. write a for loop to find factorial of a given number
+4.1 write a while loop to find factorial of a given number
+
+5. find sum of elements in a list using while loop
